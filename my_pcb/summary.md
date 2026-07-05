@@ -1,6 +1,10 @@
 ## Overview
 10-channel MOSFET switch PCB for controlling inductive, resistive, capacitive, and PWM loads using any MCU or logic voltage.
 
+## Design & Implementation
+- **Schematic:** Created using KiCAD
+- **Physical Implementation:** Built on zero PCB (veroboard)
+
 ## Components
 - IRLZ44N MOSFET
 - 1N4007 Diode (flyback protection)
