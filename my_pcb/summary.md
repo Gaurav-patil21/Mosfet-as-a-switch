@@ -10,6 +10,8 @@
 - 6-pin JST connector
 - Screw terminals (power/load)
 
+- Reason behind taking this values is that i want to play a safe game rather than calculating and using fixed values of the resistors, i used standard values which works great 
+
 ## Source/Sink Configuration for MOSFET
 ### The Core Concepts
 
