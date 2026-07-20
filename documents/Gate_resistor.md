@@ -56,8 +56,3 @@ E = 0.5 · 1e-9 · 12^2 = 72 nJ per transition → Pavg ≈ 72 nJ · 100 kHz = 7
 ## References & further reading
 - Check MOSFET datasheet (Qg, Ciss, Cgd) for exact gate-charge numbers.
 - Vendor app notes (Infineon, Texas Instruments, ST, ON Semiconductor) cover gate driver selection, ESR/Rg trade-offs, and layout tips.
-
-## Suggested next steps for the repo
-- Add a small table of example MOSFETs (part number, Qg, suggested Rg).
-- Include oscilloscope screenshots (gate/drain) demonstrating effects of different Rg values.
-- Link to vendor application notes and the MOSFET datasheet(s) used in your project.
